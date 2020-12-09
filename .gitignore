@@ -1,0 +1,14 @@
+# .gitignore
+### Django ###
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+/budgetproject/media/*
+/budgetproject/static/*
+/budget_venv
+.DS_Store
+.vscode
+db.sqlite3
+/.github
